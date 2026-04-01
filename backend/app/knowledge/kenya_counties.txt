@@ -1,0 +1,15 @@
+Kenya has 47 counties including:
+
+Nairobi
+Kiambu
+Mombasa
+Kisumu
+Nakuru
+Uasin Gishu
+Machakos
+Meru
+Kakamega
+Garissa
+...
+
+Each county has constituencies, wards, and elected leaders.

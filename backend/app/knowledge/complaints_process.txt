@@ -1,0 +1,10 @@
+Public Complaints Process in Kenya
+
+1. Citizen submits a complaint (service delivery issue)
+2. Complaint is recorded with category and location
+3. Status changes:
+   - submitted
+   - in review
+   - resolved
+4. Citizen may provide evidence or follow-up
+5. Authorities must respond through accountability mechanisms
