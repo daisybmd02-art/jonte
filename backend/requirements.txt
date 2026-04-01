@@ -14,3 +14,4 @@ sentence-transformers==3.0.1
 faiss-cpu==1.13.2
 numpy==1.26.4
 passlib[argon2]
+pdfplumber
